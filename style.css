@@ -321,12 +321,10 @@ main .container {
 }
  
 .imgBx {
-  position: absolute;
+  position: relative;
   width: 100%;
   min-height: 600px;
   margin: 10px 0 15px;
-  top: 0;
-  left: 0;
 }
  
 .actionBtns {
